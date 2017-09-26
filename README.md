@@ -6,3 +6,13 @@ To help structure your work, here are 22 challenges. They all build on one anoth
 
 ## Challenge 1
 Setting up the project (Git repo)
+
+To complete this challenge, you will need to:
+
+- [x] Create a directory from the command line
+- [x] Initialize a git repository within that directory
+- [x] Create a README.md file from the command line
+- [ ] Write a clear README
+- [x] Add the README.md to the staging area
+- [x]Commit your changes with a clear message
+- [x]Push the project to Github.
