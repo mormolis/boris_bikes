@@ -1,5 +1,5 @@
 class DockingStation
-    def bike_release
+    def release_bike
     end
 end
 

@@ -19,3 +19,11 @@ To complete this challenge, you will need to:
 
 ## Challenge 2
 Converting user's stories to Object-messages tables
+
+
+## Challenge 3
+
+To complete this challenge, you will need to:
+ - [x] Start irb (or any other REPL) from the Command Line
+ - [x] Set a variable docking_station equal to a new DockingStation object
+ - [x] Explain to your pair partner what the resulting error means.
