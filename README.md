@@ -14,5 +14,7 @@ To complete this challenge, you will need to:
 - [x] Create a README.md file from the command line
 - [ ] Write a clear README
 - [x] Add the README.md to the staging area
-- [x]Commit your changes with a clear message
-- [x]Push the project to Github.
+- [x] Commit your changes with a clear message
+- [x] Push the project to Github.
+
+## Challenge 2
